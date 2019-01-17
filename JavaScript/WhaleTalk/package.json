@@ -1,0 +1,11 @@
+{
+  "name": "testing-babel-transpilation",
+  "version": "1.0.0",
+  "description": "just testing the transpilation performed by the babel tool and fancying the npm utility",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
